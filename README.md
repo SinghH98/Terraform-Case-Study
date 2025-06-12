@@ -5,7 +5,7 @@ Suppose I work as a DevOps Engineer in leading Software Company. I have been ask
   
 The company Requirements:
 
-● Use AWS cloud Provider and the software to be installed is Apache2. 
+● Use AWS cloud Provider and the software to be installed is Apache2..
 ● Use Ubuntu AMI.
  
 The company wants the Architecture to have the following services: 
