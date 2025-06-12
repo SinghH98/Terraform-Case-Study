@@ -11,4 +11,4 @@ The company Requirements:
 The company wants the Architecture to have the following services: 
 
 ● Create a template with a VPC, 2 subnets and 1 instance in each subnet. 
-● Attach Security groups, internet gateway and network interface to the instance. 
+● Attach Security groups, internet gateway and network interface to the instance.. 
